@@ -1,0 +1,12 @@
+Profil,Type_Bac,Moyenne_Bac,Interets,Objectif_Carriere,Type_Etablissement,Ville,Recommandation_1,Recommandation_2,Recommandation_3
+Profil_Scientifique_Excellence,Sciences Maths A,17.5,"IA, Data Science",Ingénieur IA,Public,Rabat,ENSIAS Rabat,EMI Rabat,UM6P Ben Guerir
+Profil_Scientifique_Bon,Sciences Maths B,14.5,"Informatique, Réseaux",Ingénieur Informatique,Public,Casablanca,ENSA Casablanca,EMSI Casablanca,FST Casablanca
+Profil_SVT_Médecine,SVT,16.5,"Médecine, Biologie",Médecin,Public,Casablanca,Faculté de Médecine Casablanca,Faculté de Médecine Rabat,Faculté Marrakech
+Profil_Eco_Gestion,Sciences Économiques,13.5,"Commerce, Finance",Gestionnaire,Public,Casablanca,ENCG Casablanca,FSJES Casablanca,HEM Casablanca
+Profil_Lettres_Droit,Lettres,13.0,"Droit, Justice",Avocat,Public,Rabat,FSJES Rabat Droit Privé,FSJES Droit Public,Université Hassan II
+Profil_Architecture,Sciences Maths A,15.0,"Architecture, Design",Architecte,Public,Rabat,ENA Rabat,ENSA Génie Civil,UIR Rabat
+Profil_Technique_BTS,Bac Technique,11.5,"Électronique, Industrie",Technicien,Public,Casablanca,EST Casablanca,ISTA Casablanca,OFPPT
+Profil_Budget_Limité,Sciences Physiques,12.0,"Physique, Énergie",Ingénieur Énergie,Public,Multiple,FST Mohammedia,Université Hassan II,ENSA Kénitra
+Profil_International,Sciences Maths A,16.0,"Business, Langues",Manager International,Privé,Ifrane,Al Akhawayn University,UIR Rabat,UM6P
+Profil_Créatif_Communication,Lettres,12.5,"Communication, Art",Journaliste,Privé,Casablanca,Mundiapolis,SUPECOM,HEM Marketing
+Profil_Maths_Statistiques,Sciences Maths A,15.5,"Mathématiques, Statistiques",Data Analyst,Public,Rabat,INSEA Rabat,FST Maths,ENSIAS

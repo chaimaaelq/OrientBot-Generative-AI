@@ -1,0 +1,21 @@
+Filière,Domaine,Durée,Diplôme,Débouchés_Métiers,Compétences_Requises,Seuil_Min,Type_Bac_Requis,Salaire_Débutant_MAD,Marché_Emploi
+Génie Informatique,Informatique & IA,5 ans,Ingénieur,Développeur / Architecte logiciel / DevOps,Maths + Algorithmique + Logique,14,Sciences Maths,"10000-18000",Excellent
+Data Science & IA,Informatique & IA,5 ans,Ingénieur / Master,"Data Scientist, ML Engineer, AI Researcher",Maths avancées + Statistiques + Python,15,Sciences Maths A,"12000-25000",Excellent
+Cybersécurité,Informatique & IA,5 ans,Ingénieur,"Pentesteur, SOC Analyst, RSSI",Réseaux + Sécurité + Systèmes,13,Sciences Maths,"10000-20000",Très bon
+Médecine Générale,Médecine & Santé,7 ans,Doctorat en Médecine,"Médecin généraliste, Spécialiste",Sciences naturelles + Mémorisation + Empathie,17,SVT / Sciences Maths,"8000-30000",Bon
+Pharmacie,Médecine & Santé,6 ans,Doctorat en Pharmacie,"Pharmacien, Biologiste, Chercheur",Chimie + Biologie + Rigueur,16,SVT,"7000-20000",Bon
+Génie Civil,Ingénierie,5 ans,Ingénieur,"Chef de chantier, BTP, Urbanisme",Maths + Physique + Dessin technique,13,Sciences Maths,"9000-18000",Bon
+Architecture,Design & Construction,6 ans,Architecte DESA,"Architecte d'intérieur, Urbaniste",Créativité + Maths + Dessin + Droit,14,Sciences Maths / Bac Technique,"8000-25000",Bon
+Droit Privé,Sciences Juridiques,5 ans,Licence + Master,"Avocat, Notaire, Juriste d'entreprise",Mémorisation + Argumentation + Français,12,Toutes filières,"6000-20000",Moyen
+Finance & Comptabilité,Commerce & Gestion,5 ans,Licence + Master / Expert-Comptable,"Expert-Comptable, Auditeur, DAF",Maths de gestion + Rigueur + Excel,13,Sciences Économiques / Sciences Maths,"8000-22000",Très bon
+Marketing & Commerce,Commerce & Gestion,3-5 ans,Licence / Master,"Responsable marketing, Commercial, Chef de produit",Créativité + Communication + Analyse,11,Toutes filières,"6000-15000",Bon
+Enseignement & Pédagogie,Éducation,5 ans,Licence + CAPES / CPR,"Professeur, Formateur, Conseiller pédagogique",Pédagogie + Patience + Communication,10,Toutes filières,"5000-12000",Bon
+Agronomie & Environnement,Sciences & Nature,5 ans,Ingénieur Agronome,"Ingénieur agronome, Consultant agriculture",Biologie + Chimie + Terrain,13,SVT / Sciences Maths,"8000-18000",Moyen
+Statistiques & Actuariat,Maths & Données,5 ans,Ingénieur Statisticien,"Actuaire, Statisticien, Analyste risques",Maths avancées + Statistiques + Probabilités,15,Sciences Maths A,"10000-25000",Excellent
+Génie Électrique & Énergie,Ingénierie,5 ans,Ingénieur,"Ingénieur en énergie, Électronicien, Automaticien",Maths + Physique + Électronique,13,Sciences Maths / Sciences Physiques,"9000-18000",Très bon
+Communication & Journalisme,Arts & Lettres,3-5 ans,Licence / Master,"Journaliste, Community Manager, Attaché de presse",Écriture + Créativité + Médias,11,Lettres / Sciences Économiques,"5000-12000",Moyen
+Langues Étrangères Appliquées (LEA),Langues & Lettres,3-5 ans,Licence / Master,"Traducteur, Interprète, Professeur de langues",Plurilinguisme + Culture + Communication,11,Lettres / Sciences Économiques,"5000-15000",Moyen
+BTS Développement Web,Informatique,2 ans,Diplôme de Technicien Spécialisé,"Développeur web, Webmaster, Intégrateur",HTML/CSS + JavaScript + CMS,10,Toutes filières,"5000-10000",Très bon
+BTS Réseaux & Télécommunications,Informatique,2 ans,Diplôme de Technicien Spécialisé,"Technicien réseau, Administrateur système",Réseaux + Linux + Hardware,10,Sciences Maths / Sciences Physiques,"5000-10000",Très bon
+Sciences Économiques & Gestion (SEG),Commerce & Gestion,3 ans,Licence,"Chargé de clientèle, Assistant de direction",Économie + Gestion + Bureautique,10,Sciences Économiques,"5000-10000",Moyen
+Relations Internationales,Sciences Politiques,5 ans,Master,"Diplomate, Chargé de mission internationale, Consultant",Langues + Géopolitique + Droit,13,Lettres / Sciences Économiques,"7000-18000",Moyen

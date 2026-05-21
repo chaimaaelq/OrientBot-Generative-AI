@@ -1,0 +1,31 @@
+Écoles/Instituts,Ville,Type d'établissement,Diplôme,Durée d'études,Conditions d'accès,Filières Bacs acceptées,Filières d'études possibles,Seuil
+Faculté des Sciences et Techniques (FST),Casablanca,Public,Licence / Master / Doctorat,3 à 8 ans,Bac scientifique,Sciences Maths A / Sciences Maths B / Sciences Physiques / SVT,Génie Informatique / Génie Civil / Physique / Mathématiques / Biologie,12
+École Mohammadia d'Ingénieurs (EMI),Rabat,Public,Diplôme d'Ingénieur,5 ans,"Concours national commun (CNC) - Bac+2 CPGE","Sciences Maths A, Sciences Maths B","Génie Informatique, Génie Civil, Génie Industriel, Génie Électrique",16
+EMSI - École Marocaine des Sciences de l'Ingénieur,Casablanca,Privé,Diplôme d'Ingénieur,5 ans,"Bac + dossier + entretien","Sciences Maths, Sciences Physiques","Informatique et Réseaux, Génie Logiciel, Data Science, Cybersécurité",13
+ENSA - École Nationale des Sciences Appliquées,Agadir,Public,Diplôme d'Ingénieur,5 ans,Bac + concours national,"Sciences Maths A, Sciences Maths B","Génie Informatique, Génie Civil, Génie Énergétique, Génie Industriel",14
+Faculté de Médecine et de Pharmacie,Rabat,Public,Doctorat en Médecine,7 ans,"Bac SVT + concours national très sélectif",SVT / Sciences Maths,Médecine générale / Pharmacie / Médecine dentaire,17
+ENCG - École Nationale de Commerce et de Gestion,Casablanca,Public,Licence / Master,3 à 5 ans,"Bac + concours national ENCG","Sciences Économiques, Lettres, Sciences Maths","Management, Finance, Marketing, Commerce International",14
+Université Hassan II,Casablanca,Public,Licence / Master,3 à 5 ans,Bac (toutes filières),Toutes filières,"Droit, Économie, Lettres, Sciences, Informatique",10
+ISCAE - Institut Supérieur de Commerce et d'Administration des Entreprises,Casablanca,Public,Master Grande École,2 ans,Bac+2 ou Bac+3 + concours,Toutes filières,"Finance d'entreprise, Audit, Marketing, RH",14
+École Supérieure de Technologie (EST),Meknès,Public,DUT,2 ans,Bac + dossier sélectif,"Sciences Maths, Sciences Physiques, Bac Technique","Techniques de Management, Informatique, Électronique, Génie Civil",12
+Université Cadi Ayyad,Marrakech,Public,Licence / Master,3 à 5 ans,Bac toutes filières,Toutes filières,"Médecine, Sciences, Droit, Lettres, Économie",10
+ENSA Marrakech,Marrakech,Public,Diplôme d'Ingénieur,5 ans,Bac + concours CNC,"Sciences Maths A, Sciences Maths B","Génie Informatique, Génie Industriel, Génie Civil",14
+Université Sidi Mohammed Ben Abdellah (USMBA),Fès,Public,Licence / Master / Doctorat,3 à 8 ans,Bac toutes filières,Toutes filières,"Médecine, Sciences, Droit, Économie, Lettres",10
+Institut Spécialisé de Technologie Appliquée (ISTA),Multiple villes,Public,Technicien Spécialisé,2 ans,Bac toutes filières,Toutes filières,"Développement Web, Réseau, Gestion, Commerce",10
+Université Abdelmalek Essaâdi,Tanger,Public,Licence / Master,3 à 5 ans,Bac toutes filières,Toutes filières,"Sciences, Droit, Économie, Lettres, Médecine",10
+ENSIAS - École Nationale Supérieure d'Informatique et d'Analyse des Systèmes,Rabat,Public,Diplôme d'Ingénieur,5 ans,Bac + CPGE + CNC,"Sciences Maths A, Sciences Maths B","Génie Logiciel, Data Science, Cybersécurité, IA, Systèmes d'Information",16
+Faculté des Sciences Juridiques Économiques et Sociales (FSJES),Casablanca,Public,Licence / Master,3 à 5 ans,Bac toutes filières,"Lettres, Sciences Économiques, Sciences Maths","Droit Privé, Droit Public, Économie, Gestion des Entreprises",10
+École Nationale d'Architecture (ENA),Rabat,Public,Diplôme d'Architecte,6 ans,Bac + concours national + test d'aptitude,"Sciences Maths, Bac Technique","Architecture, Urbanisme, Design d'intérieur",14
+HEM - Hautes Études de Management,Casablanca,Privé,Bachelor / MBA,3 à 5 ans,Bac + dossier + entretien,Toutes filières,"Management, Finance, Marketing, Entrepreneuriat",12
+UIR - Université Internationale de Rabat,Rabat,Privé,Licence / Master / Ingénieur,3 à 5 ans,Bac + dossier sélectif,Toutes filières,"Ingénierie, Business, Droit, Aéronautique, Sciences Politiques",12
+Université Mundiapolis,Casablanca,Privé,Licence / Master,3 à 5 ans,Bac + dossier,Toutes filières,"Commerce, Management, Droit, Communication, Tourisme",11
+Al Akhawayn University,Ifrane,Privé,Bachelor / Master,4 ans,Bac + dossier + tests en anglais,Toutes filières,"Business Administration, Informatique, Sciences, Lettres, Sciences Politiques",14
+OFPPT - Office de la Formation Professionnelle,Multiple villes,Public,Diplôme de Technicien,1 à 3 ans,3ème collège ou Bac,Toutes filières,"Plomberie, Électricité, Informatique, Commerce, Couture, Automobile",10
+Institut National de Statistique et d'Économie Appliquée (INSEA),Rabat,Public,Ingénieur Statisticien,3 ans,Bac + CPGE + concours,"Sciences Maths A, Sciences Maths B","Statistiques, Actuariat, Data Science, Économétrie",15
+CPGE - Classes Préparatoires aux Grandes Écoles,Casablanca / Rabat / Fès,Public,Préparation CNC,2 ans,Bac mention Bien ou Très Bien,"Sciences Maths A, Sciences Maths B","Mathématiques, Physique, Sciences de l'Ingénieur, Économie",15
+CROUS - Centre Régional des Œuvres Universitaires,Multiple villes,Public,Service étudiant,N/A,Être étudiant inscrit en université publique,Toutes filières,"Logement étudiant, Restauration, Bourse, Santé",10
+École Supérieure de Gestion et de Commerce International (SUPECOM),Casablanca,Privé,Licence / Master,3 à 5 ans,Bac + dossier + entretien,Toutes filières,"Marketing, Commerce, Communication, Publicité",11
+Institut Supérieur d'Art Dramatique et d'Animation Culturelle (ISADAC),Rabat,Public,Diplôme National,4 ans,Bac + concours + test artistique,Toutes filières,"Art dramatique, Mise en scène, Animation culturelle",12
+Université Mohammed VI Polytechnique (UM6P),Ben Guerir,Privé,Licence / Master / Ingénieur,3 à 5 ans,Bac + concours ou dossier sélectif,"Sciences Maths, SVT, Sciences Physiques","IA & Data Science, Génie Civil, Agriculture, Énergie, Architecture",15
+École Supérieure des Industries du Textile et de l'Habillement (ESITH),Casablanca,Public,Licence / Master,3 à 5 ans,Bac + concours,"Sciences Maths, Bac Technique","Génie Textile, Stylisme, Management de la Mode",13
+ENSA Kénitra,Kénitra,Public,Diplôme d'Ingénieur,5 ans,Bac + concours CNC,"Sciences Maths A, Sciences Maths B","Génie Informatique, Génie Électrique, Génie Industriel",14
