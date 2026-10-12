@@ -1,19 +1,37 @@
 # 🤖 OrientBot
 
-**Chatbot intelligent d’orientation scolaire et universitaire basé sur l’IA générative.**
+**Chatbot intelligent d’orientation scolaire et universitaire basé sur l’IA générative et l’approche Retrieval-Augmented Generation (RAG).**
 
-OrientBot est un projet de **Projet de Fin d’Études (PFE)** réalisé dans le cadre du Master **Big Data et Intelligence Artificielle**.  
-Il vise à accompagner les élèves et étudiants dans leur orientation en proposant des réponses personnalisées selon leur profil, leurs résultats scolaires et leurs centres d’intérêt.
+OrientBot est un projet de fin d’études (PFE) réalisé dans le cadre du Master. Il accompagne les élèves et les étudiants dans leurs choix d’orientation au Maroc en proposant des recommandations personnalisées selon leur profil académique, leurs centres d’intérêt et leurs préférences.
 
-## 🎯 Fonctionnalités
+## ✨ Fonctionnalités principales
 
--  Prise en compte du profil et des préférences de l’étudiant
--  Recherche hybride combinant recherche vectorielle et **BM25**
--  Fusion des résultats avec **RRF**
--  Re-ranking des documents avec un **Cross-Encoder**
--  Génération de réponses contextualisées avec **Gemini**
--  Utilisation d’une base de connaissances dédiée à l’orientation
--  Interface conversationnelle développée avec **Streamlit**
+- **Personnalisation des recommandations** à partir du profil de l’apprenant.
+- **Base de connaissances spécialisée** couvrant les filières, les établissements, les conditions d’admission et les parcours de formation au Maroc.
+- **Recherche hybride** combinant recherche vectorielle et recherche lexicale BM25.
+- **Fusion des résultats** à l’aide de Reciprocal Rank Fusion (RRF).
+- **Re-ranking des documents** avec un Cross-Encoder pour améliorer la pertinence des passages récupérés.
+- **Génération augmentée par récupération (RAG)** avec Gemini 2.5 Flash.
+- **Interface conversationnelle interactive** développée avec Streamlit.
+
+## 🖥️ Aperçu de l’application
+
+<!-- Ajouter les captures d’écran dans le dossier screenshots/ -->
+
+| Interface d’accueil | Assistant conversationnel |
+|:---:|:---:|
+| ![Accueil d’OrientBot](screenshots/accueil.png) | ![Conversation avec OrientBot](screenshots/chatbot.png) |
+
+![Tableau de bord analytique](screenshots/dashboard.png)
+
+
+## 🏗️ Architecture du système
+
+Le système repose sur trois étapes principales :
+
+1. **Préparation et indexation des connaissances :** collecte, nettoyage, structuration et vectorisation des données.
+2. **Recherche et classement :** récupération hybride des documents pertinents, fusion des résultats et re-ranking.
+3. **Génération personnalisée :** combinaison des documents récupérés et du profil de l’apprenant pour produire une réponse contextualisée.
 
 ## 🛠️ Technologies
 
