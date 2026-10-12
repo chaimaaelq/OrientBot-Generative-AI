@@ -1,10 +1,10 @@
-# 🤖 OrientBot
+# OrientBot
 
 **Chatbot intelligent d’orientation scolaire et universitaire basé sur l’IA générative et l’approche Retrieval-Augmented Generation (RAG).**
 
 OrientBot est un projet de fin d’études (PFE) réalisé dans le cadre du Master. Il accompagne les élèves et les étudiants dans leurs choix d’orientation au Maroc en proposant des recommandations personnalisées selon leur profil académique, leurs centres d’intérêt et leurs préférences.
 
-## ✨ Fonctionnalités principales
+## Fonctionnalités principales
 
 - **Personnalisation des recommandations** à partir du profil de l’apprenant.
 - **Base de connaissances spécialisée** couvrant les filières, les établissements, les conditions d’admission et les parcours de formation au Maroc.
@@ -14,18 +14,16 @@ OrientBot est un projet de fin d’études (PFE) réalisé dans le cadre du Mast
 - **Génération augmentée par récupération (RAG)** avec Gemini 2.5 Flash.
 - **Interface conversationnelle interactive** développée avec Streamlit.
 
-## 🖥️ Aperçu de l’application
+## Aperçu de l’application
 
 <!-- Ajouter les captures d’écran dans le dossier screenshots/ -->
 
 | Interface d’accueil | Assistant conversationnel |
 |:---:|:---:|
-| ![Accueil d’OrientBot](screenshots/accueil.png) | ![Conversation avec OrientBot](screenshots/chatbot.png) |
-
-![Tableau de bord analytique](screenshots/dashboard.png)
+| ![Accueil d’OrientBot](screenshots/Accueil.png) | ![Conversation avec OrientBot](screenshots/Interface conversationnelle.png) 
 
 
-## 🏗️ Architecture du système
+## Architecture du système
 
 Le système repose sur trois étapes principales :
 
