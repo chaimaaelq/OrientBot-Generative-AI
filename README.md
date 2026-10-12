@@ -30,6 +30,6 @@ Le système repose sur trois étapes principales :
 2. **Recherche et classement :** récupération hybride des documents pertinents, fusion des résultats et re-ranking.
 3. **Génération personnalisée :** combinaison des documents récupérés et du profil de l’apprenant pour produire une réponse contextualisée.
 
-## 🛠️ Technologies
+## Technologies
 
 **Python · LangChain · RAG · Mistral AI · Gemini · Llama · ChromaDB · BM25 · Cross-Encoder · Hugging Face · Pydantic · Streamlit · RAGAS**
