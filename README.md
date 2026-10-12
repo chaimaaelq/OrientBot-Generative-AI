@@ -20,8 +20,7 @@ OrientBot est un projet de fin d’études (PFE) réalisé dans le cadre du Mast
 
 | Interface d’accueil | Assistant conversationnel |
 |:---:|:---:|
-| ![Accueil d’OrientBot](screenshots/Accueil.png) | ![Conversation avec OrientBot](screenshots/Interface conversationnelle.png) 
-
+| ![Accueil d’OrientBot](screenshots/Accueil.png) | ![Conversation avec OrientBot](screenshots/Interface%20conversationnelle.png)
 
 ## Architecture du système
 
